@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academia</title>
-    <link>https://osows.github.io/Academia/</link>
+    <link>https://osows.github.io/academia/</link>
     <description>Recent content on Academia</description>
     <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; {year}</copyright>
     <lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="https://osows.github.io/Academia/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://osows.github.io/academia/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://osows.github.io/Academia/talk/</link>
+      <link>https://osows.github.io/academia/talk/</link>
       <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
       
-      <guid>https://osows.github.io/Academia/talk/</guid>
+      <guid>https://osows.github.io/academia/talk/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Courses</title>
-      <link>https://osows.github.io/Academia/courses/</link>
+      <link>https://osows.github.io/academia/courses/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
-      <guid>https://osows.github.io/Academia/courses/</guid>
+      <guid>https://osows.github.io/academia/courses/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://osows.github.io/Academia/publication/</link>
+      <link>https://osows.github.io/academia/publication/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://osows.github.io/Academia/publication/</guid>
+      <guid>https://osows.github.io/academia/publication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Posts</title>
-      <link>https://osows.github.io/Academia/post/</link>
+      <link>https://osows.github.io/academia/post/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://osows.github.io/Academia/post/</guid>
+      <guid>https://osows.github.io/academia/post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://osows.github.io/Academia/slides/</link>
+      <link>https://osows.github.io/academia/slides/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://osows.github.io/Academia/slides/</guid>
+      <guid>https://osows.github.io/academia/slides/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://osows.github.io/Academia/project/</link>
+      <link>https://osows.github.io/academia/project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://osows.github.io/Academia/project/</guid>
+      <guid>https://osows.github.io/academia/project/</guid>
       <description></description>
     </item>
     
